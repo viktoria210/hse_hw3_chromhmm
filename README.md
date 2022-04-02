@@ -50,7 +50,7 @@
 
 ![RefSeqTES](https://user-images.githubusercontent.com/60792064/161400575-144dc141-f333-484b-b538-8bf597971a76.png)
 
-## Картинки из браузера
+## Картинки из UCSC GenomeBrowser
 
 ![Br_1](https://user-images.githubusercontent.com/60792064/161401769-6ba4ea35-484e-4139-b228-abc550f922dd.png)
 
@@ -58,7 +58,7 @@
 
 ![Br_3](https://user-images.githubusercontent.com/60792064/161401778-5d4c5a62-b5d4-43c3-bfd9-b15e1a4bbe43.png)
 
-## Бонусное задание: 
+## Бонусное задание
 
 Файл с добавленной аннотацией: *"A549_10_dense_new.bed"*
 
