@@ -37,3 +37,15 @@
 |A549|	H3k4me2|	H3k4me2.bam|	Control.bam|
 |A549|	H3k4me1|	H3k4me1.bam|	Control.bam|
 |A549|	Ctcf|	Ctcf.bam|	Control.bam|
+
+## Картинки из выдачи ChromHMM
+
+![Emission_Parameters](https://user-images.githubusercontent.com/60792064/161400551-c95b828a-dab0-4172-a2fd-26b15e7f4fde.png)
+
+![Transition_Parameters](https://user-images.githubusercontent.com/60792064/161400557-35a9a9b7-c546-4f45-a6ac-8f582d5e4f98.png)
+
+![Overlap](https://user-images.githubusercontent.com/60792064/161400561-b7e86bc9-8300-4ada-b86e-b8f73a097a94.png)
+
+![RefSeqTSS](https://user-images.githubusercontent.com/60792064/161400565-abd9e9d8-b341-4278-bc96-1a6d2a436a2e.png)
+
+![RefSeqTES](https://user-images.githubusercontent.com/60792064/161400575-144dc141-f333-484b-b538-8bf597971a76.png)
