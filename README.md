@@ -61,3 +61,10 @@
 ## Бонусное задание: 
 
 Файл с добавленной аннотацией: *"A549_10_dense_new.bed"*
+
+![Bonus_1](https://user-images.githubusercontent.com/60792064/161401983-e37d7d2c-5aa5-4981-b1ae-ef8b4555bf81.png)
+
+![Bonus_2](https://user-images.githubusercontent.com/60792064/161401987-cae85b33-0ff8-4f9c-b2e7-c3355e63e5ae.png)
+
+![Bonus_3](https://user-images.githubusercontent.com/60792064/161401992-1985190f-b174-490c-8620-6038a04b3abe.png)
+
