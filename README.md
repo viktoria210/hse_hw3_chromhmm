@@ -25,6 +25,7 @@
 |Ctcf            |wgEncodeBroadHistoneA549CtcfDex100nmAlnRep1.bam     |Ctcf.bam                              |
 
 ## cellmarkfiletable.txt
+|Клеточная линия| Гистоновая метка | Файл с гистоновой меткой| Файл с контролем|
 |:--|:----------|:------------|:------------|
 |A549|	H4k20me1|	H4k20me1.bam|	Control.bam|
 |A549|	H3k79me2|	H3k79me2.bam|	Control.bam|
